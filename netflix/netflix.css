@@ -564,7 +564,7 @@ footer .foot1 {
     }
 
     body>div>main>div.slidefour>div.slidefourimg>img {
-        width: 50%;
+        width: 30%;
         margin-left: 22%;
     }
 
@@ -588,7 +588,7 @@ footer .foot1 {
     }
 }
 
-@media screen and (max-width:800px) and (min-width:420px) {
+@media screen and (max-width:870px) and (min-width:420px) {
 
     body>div>header>div.header-top>img {
         width: 130px;
